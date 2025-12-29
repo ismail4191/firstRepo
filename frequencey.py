@@ -1,4 +1,4 @@
-text ="ismail ismial 4191"
+text ="ismail ismial 1"
 
 freq={}
 for ch in text:
