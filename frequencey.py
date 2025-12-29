@@ -1,4 +1,4 @@
-text ="firstcode firstcode"
+text ="ismail"
 
 freq={}
 for ch in text:
